@@ -33,7 +33,6 @@ namespace Game.Scripts.DataScriptable
 
         public void Init()
         {
-            Debug.LogError("AWAKEE");
             GlobalValue.bonusClick = _bonusClick;
             GlobalValue.valueBonusThreshold = _valueBonusThreshold;  
         }
