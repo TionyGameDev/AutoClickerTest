@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a7a881d-4855-4078-9f15-a652721bb1df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Clicker.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Clicker/AutoCollectClicker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Clicker/AutoCollectClicker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Clicker/TapClicker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Clicker/TapClicker.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/AutoCollectSettingsSO.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/AutoCollectSettingsSO.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/IClickSettings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/IClickSettings.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Events.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Events/EventHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Events/EventHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Events/EventName.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Events/EventName.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/JsonHelper.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/JsonHelper/JsonDataHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/JsonHelper/JsonDataHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/JsonHelper/SaveData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/JsonHelper/SaveData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/CurrencyManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/CurrencyManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/GlobalValue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/GlobalValue.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/InitManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/InitManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/SaveManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Managers/SaveManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Singleton.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Singleton/Singleton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/Singleton/Singleton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/BaseGameUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/BaseGameUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/ClickButtonUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/ClickButtonUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/CurrencyUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/CurrencyUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/FloatingTextUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Game/Scripts/UI/FloatingTextUI.cs.meta" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DA8A948-97C9-4541-9A99-35A75F4E9B6A/f6/2229aa02/EventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DA8A948-97C9-4541-9A99-35A75F4E9B6A/85/db37fb23/Delegate.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DA8A948-97C9-4541-9A99-35A75F4E9B6A/42/e238c47e/Task.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Game/DataScriptable/ClickSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/DataScriptable/AutoCollectSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Singleton/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Singleton/DataScriptable/AutoCollectSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Singleton/DataScriptable/ClickSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/IClickSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/ClickSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/StandartClickSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/StandardClickSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Managers/SaveManagers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/JsonHelper/JsonDataHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Clicker/AutoCollectionClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/IAutoCollectSettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/JsonHelper/SaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Managers/GlobalValue.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Events/EventName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Events/EventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/DataScriptable/AutoCollectSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Clicker/AutoCollectClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Clicker/TapClicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/UI/ClickButtonUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/UI/FlyTextUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/UI/FloatingTextUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Managers/SaveLoadManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Managers/SaveManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/UI/BaseGameUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Managers/CurrencyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/Managers/InitManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scripts/UI/CurrencyUI.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2mtSvRnQyBqbxvWhArngiPtuHnM" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a7a881d-4855-4078-9f15-a652721bb1df" name="Default Changelist" comment="" />
+      <created>1727894610599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727894610599</updated>
+      <workItem from="1727894626663" duration="11645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1114" y="401" key="RiderGenerateDialog" timestamp="1727896294431">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="401" key="RiderGenerateDialog/0.0.2560.1400/2560.257.1536.864@0.0.2560.1400" timestamp="1727896294431" />
+  </component>
+</project>
